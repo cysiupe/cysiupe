@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cysiupe
+- 👋 Hi, I’m @Krzysiek
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
